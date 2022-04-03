@@ -7,7 +7,7 @@ function SideBar() {
             <div>
                 <h1 className="text-3xl font-bold mb-4">Codeyogi</h1>
                 <div className="flex flex-col space-y-3">
-                    <Link to="/students">Students</Link>
+
                     <Link to="/lectures">Lectures</Link>
                     <Link to="/assignments">Assignments</Link>
                     <Link to="/quiz">Quiz</Link>
